@@ -1,0 +1,20 @@
+body{
+    background-color: bisque;
+    font-family: "Open Sans";
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.titulo-principal{
+    font-size: 50px;
+}
+
+img{
+    border-radius: 20px;
+}
+
